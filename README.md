@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arxeman
 - 👀 I’m interested in learning new coding languages and developing my programming skills
 - 🌱 I’m currently learning Java and C
-- 📫 How to reach me e-mail: varyeman@gmail.com, instagram: arxeman
+- 📫 How to reach me e-mail: varyeman@gmail.com, instagram: @arxeman
 - 😄 Pronouns: he/him
 
 
