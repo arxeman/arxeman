@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @arxeman<br>👀 I’m interested in learning new coding languages and developing my programming skills<br>🌱 I’m currently learning C and C++<br>📫 How to reach me? e-mail: varyeman@gmail.com<br>😄 Pronouns: he/him 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arxeman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryeman-verma-63078b320/) 
 
